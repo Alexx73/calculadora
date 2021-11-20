@@ -1,5 +1,5 @@
 <template>
-  <h3>Calculadora</h3>
+  <h1></h1>
 </template>
 
 <script>
